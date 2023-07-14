@@ -1,0 +1,7 @@
+.idea/
+.git/
+venv/
+**/__pycache__/
+main.*/
+*.exe
+settings.ini
